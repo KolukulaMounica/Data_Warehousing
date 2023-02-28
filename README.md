@@ -11,4 +11,4 @@ A Cloud Data Warehousing project on sparkify data.
    - step 3: Staging the tables using the s3 bucket URL and IAM role credentials.
    - step 4: Inserting all the data into these created tables.
 
-These are the steps in Data Warehousing.
+These are the steps used in Cloud Data Warehousing using Redshift cluster, IAM roles, database configurations.
